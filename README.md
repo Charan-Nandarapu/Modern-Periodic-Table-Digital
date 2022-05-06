@@ -5,6 +5,3 @@ It is developed using the C programming language for the purpose of storing atom
 The source code of this project is complete and totally error free. 
 The C source code is simple and easily uderstandable, and consist of around 300 lines of code.
 
-PROJECT BY - CHARAN NANDARAPU
-e-mail - nandarapucharan065@gmail.com
-Dedicated to -  GeekforGeeks SRMIST Student Chapter
